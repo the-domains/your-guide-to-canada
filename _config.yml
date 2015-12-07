@@ -1,7 +1,7 @@
 name: Your Guide to Canada
 favicon: null
-layout_spectrum: 0.4351890585385263
-typography_spectrum: 0.29306356818415225
+layout_spectrum: 0.99906
+typography_spectrum: 0.8938
 title: "The Newcomer's Guide to Canada"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#fefefe'
+    - '#2b96c0'
+    - '#800603'
+    - '#194f7d'
+    - '#000000'
   brandStrength: 0.21226262371055782
-  lightness: 0.5215050582773983
+  lightness: 0.5625
   saturation: 0.4219959736801684
-  rhythmicContrast: 0.01904723048210144
+  rhythmicContrast: 0.5
 purpose: []
