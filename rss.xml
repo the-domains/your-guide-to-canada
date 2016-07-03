@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Newcomer's Guide to Canada]]></title>
         <description><![CDATA[The Newcomer's Guide to Canada]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/your-guide-to-canada/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 03:59:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jul 2016 03:59:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/your-guide-to-canada/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f796b5db-457b-4558-9aae-a36a27afe314.jpg">]]></description>
+            <link>https://thegrid.ai/your-guide-to-canada/eb793d47-86da-41cd-bb47-e23ee454c0f2/index.html</link>
+            <guid isPermaLink="false">eb793d47-86da-41cd-bb47-e23ee454c0f2</guid>
+            <pubDate>Sun, 03 Jul 2016 03:59:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0a9f180-909c-4ff0-8e92-522b7c4b4739.jpg">]]></description>
-            <link>undefined84cd3ab7-c8d3-4e08-89b5-6bbb46d6d090/index.html</link>
+            <link>https://thegrid.ai/your-guide-to-canada/84cd3ab7-c8d3-4e08-89b5-6bbb46d6d090/index.html</link>
             <guid isPermaLink="false">84cd3ab7-c8d3-4e08-89b5-6bbb46d6d090</guid>
             <pubDate>Sun, 03 Jul 2016 03:59:01 GMT</pubDate>
         </item>
